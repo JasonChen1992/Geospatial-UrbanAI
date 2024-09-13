@@ -12,16 +12,16 @@ redirect_from:
 Education
 ======
 * Ph.D. in Geography and Environmental Science and Policy，2024
-  University of South Florida, Tampa, Florida
-  Advisor: Ran Tao
+University of South Florida, Tampa, Florida
+Advisor: Ran Tao
   
 * Research Direction: urban change, shrinking city, spatial analysis, GIS, city networks, flow data
-  Master of Science, Urban and Regional Planning，2018
-  University of South Florida, Tampa, Florida
+Master of Science, Urban and Regional Planning，2018
+University of South Florida, Tampa, Florida
   
 * Bachelor of Science, Urban and Rural Planning，2015 
-  Harbin Institute of Technology, Harbin, China
-  Graduation Project: Master plan of Ainong township, China.
+Harbin Institute of Technology, Harbin, China
+Graduation Project: Master plan of Ainong township, China.
 
 
 Work experience
